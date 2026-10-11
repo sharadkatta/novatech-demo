@@ -30,6 +30,9 @@ playwright-report/
 .env.local
 .env.*.local
 
+# Python virtual environment
+.venv/
+
 # Temporary
 tmp/
 temp/

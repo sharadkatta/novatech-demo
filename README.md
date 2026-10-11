@@ -215,3 +215,12 @@ Two PRs are available for the MCP/GitHub integration demo:
 ## License
 
 Educational project for Pluralsight. All rights reserved.
+
+## Katta Test
+**Note:** A Python virtual environment may not be necessary for the current project scope. However, it has been included proactively to support potential future enhancements that may require Python-based functionality or additional dependencies.
+
+- created the .venv virtual environment in the project root. It uses Python 3.13.1.
+
+- To activate it, run source .venv/bin/activate.
+
+- I added .venv/ to .gitignore, under a "Python virtual environment" heading just after the Environment section. I haven't committed the change.
